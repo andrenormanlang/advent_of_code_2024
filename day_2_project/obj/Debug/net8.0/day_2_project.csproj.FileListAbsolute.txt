@@ -1,0 +1,15 @@
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\bin\Debug\net8.0\day_2_project.exe
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\bin\Debug\net8.0\day_2_project.deps.json
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\bin\Debug\net8.0\day_2_project.runtimeconfig.json
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\bin\Debug\net8.0\day_2_project.dll
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\bin\Debug\net8.0\day_2_project.pdb
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.AssemblyInfoInputs.cache
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.AssemblyInfo.cs
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.csproj.CoreCompileInputs.cache
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.sourcelink.json
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.dll
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\refint\day_2_project.dll
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.pdb
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\day_2_project.genruntimeconfig.cache
+C:\MAMP\htdocs\Developer\advent_of_code_2024\day_2_project\obj\Debug\net8.0\ref\day_2_project.dll
