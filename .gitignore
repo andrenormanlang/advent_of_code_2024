@@ -1,0 +1,62 @@
+# General OS-specific files and IDEs
+.DS_Store
+Thumbs.db
+*.log
+*.temp
+*.tmp
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# General temporary files
+*.bak
+*.swp
+*.swo
+*.~*
+
+# Specific Language and Environment Sections
+
+## C# (.NET/.NET Core)
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+.vscode/
+*.vspx
+*.vscode-server
+*.vscode/*code-workspace
+TestResults/
+project.lock.json
+project.fragment.lock.json
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+**/appsettings*.json
+
+## Node.js (JavaScript/TypeScript)
+node_modules/
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+package-lock.json
+.pnpm-debug.log
+dist/
+coverage/
+.env
+.nyc_output/
+parcel-cache/
+.next/
+.nuxt/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyo
+*.pwm
