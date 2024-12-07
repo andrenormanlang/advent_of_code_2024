@@ -91,7 +91,7 @@ function countXMASOccurrences(grid) {
 }
 
 // Read the input file
-const inputPath = path.join(__dirname, 'day_4_input.txt');
+const inputPath = path.join(__dirname, 'day_4.in');
 let inputData;
 
 try {

@@ -109,7 +109,7 @@ namespace AdventOfCode
         static void Main(string[] args)
         {
             // Path to the input file
-            string inputFilePath = "day_2_input.txt";
+            string inputFilePath = "day_2.in";
 
             if (!File.Exists(inputFilePath))
             {

@@ -81,7 +81,7 @@ func TopologicalSort(nodes []int, rules []Rule) ([]int, error) {
 
 func main() {
 	// Read the input file
-	data, err := os.ReadFile("day_5_input.txt")
+	data, err := os.ReadFile("day_5.in")
 	if err != nil {
 		fmt.Printf("Error reading file: %v\n", err)
 		return

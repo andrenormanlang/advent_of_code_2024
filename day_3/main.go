@@ -82,7 +82,7 @@ func parseMemoryWithConditions(text string) int {
 }
 
 func main() {
-	data, err := os.ReadFile("day_3_input.txt")
+	data, err := os.ReadFile("day_3.in")
 	if err != nil {
 		panic(err)
 	}
