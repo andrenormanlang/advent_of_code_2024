@@ -8,6 +8,7 @@ In this project, I'm taking on the daily Advent of Code challenges using a varie
 - 📦 **Golang**
 - ⚙️ **C# (CSharp)**
 - 🌿 **Node.js**
+- 🦀 **Rust**
 
 ## 🚀 Running the Solutions
 
@@ -20,7 +21,6 @@ To run the solutions for each day, follow the instructions for the relevant lang
 
     ```bash
     python main.py
-    
     ```
 
 ### ⚙️ C# (CSharp)
@@ -30,7 +30,6 @@ To run the solutions for each day, follow the instructions for the relevant lang
 
     ```bash
     dotnet run
-
     ```
 
 ### 📦 Golang
@@ -49,14 +48,30 @@ To run the solutions for each day, follow the instructions for the relevant lang
 
     ```bash
     npm install
-
     ```
 
 3. **Run the script**:
 
     ```bash
     node main.js
+    ```
 
+### 🦀 Rust
+
+1. **Navigate** to the Rust challenge directory.
+2. **Run the project** using Cargo:
+
+    ```bash
+    cargo build
+    
+    cargo run
+    ```
+
+    *If you're using a single Rust file without Cargo, you can compile and run it as follows:*
+
+    ```bash
+    rustc main.rs
+    ./main
     ```
 
 ## 📜 Additional Information
