@@ -7,7 +7,7 @@ In this project, I'm taking on the daily Advent of Code challenges using a varie
 - 🐍 **Python**
 - 📦 **Golang**
 - ⚙️ **C# (CSharp)**
-- 🌿 **Node.js**
+- 🟨 **JavaScript**
 - 🦀 **Rust**
 
 ## 🚀 Running the Solutions
@@ -41,19 +41,37 @@ To run the solutions for each day, follow the instructions for the relevant lang
     go run main.go
     ```
 
-### 🌿 Node.js
+### 🟨 JavaScript
 
-1. **Navigate** to the Node.js challenge directory.
+1. **Navigate** to the JavaScript challenge directory.
 2. **Install dependencies** if necessary:
 
     ```bash
     npm install
     ```
 
-3. **Run the script**:
+3. **Run the script** using Node,  Bun, Deno, PNPM or any other JavaScript runtime:
 
     ```bash
     node main.js
+    ```
+
+    *If you're using PNPM, you can run the script as follows:*
+
+    ```bash
+    pnpm run start
+    ```
+
+    *If you're using Deno, you can run the script as follows:*
+
+    ```bash
+    deno run main.js
+    ```
+
+    *If you're using Bun, you can run the script as follows:*
+
+    ```bash
+    bun run main.js
     ```
 
 ### 🦀 Rust
@@ -63,7 +81,7 @@ To run the solutions for each day, follow the instructions for the relevant lang
 
     ```bash
     cargo build
-    
+
     cargo run
     ```
 
