@@ -8,6 +8,7 @@ In this project, I'm taking on the daily Advent of Code challenges using a varie
 - 📦 **Golang**
 - ⚙️ **C# (CSharp)**
 - 🟨 **JavaScript**
+- 🐘 **PHP**
 - 🦀 **Rust**
 
 ## 🚀 Running the Solutions
@@ -72,6 +73,15 @@ To run the solutions for each day, follow the instructions for the relevant lang
 
     ```bash
     bun run main.js
+    ```
+
+### 🐘 PHP
+
+1. **Navigate** to the PHP challenge directory.
+2. **Run the PHP script**:
+
+    ```bash
+    php main.php
     ```
 
 ### 🦀 Rust
