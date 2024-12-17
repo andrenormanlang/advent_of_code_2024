@@ -1,24 +1,30 @@
-# General OS-specific files and IDEs
+# OS-specific
 .DS_Store
 Thumbs.db
+
+# Logs and temp files
 *.log
 *.temp
 *.tmp
+*.bak
+*.swp
+*.swo
+*.~*
 
 # VS Code
 .vscode/
 .history/
 *.code-workspace
 
-# General temporary files
-*.bak
-*.swp
-*.swo
-*.~*
+# General executables and debug
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+*.out
 
-# Specific Language and Environment Sections
-
-## C# (.NET/.NET Core)
+# C# (.NET/.NET Core)
 bin/
 obj/
 *.suo
@@ -26,10 +32,6 @@ obj/
 *.userosscache
 *.sln.docstates
 *.vs/
-.vscode/
-*.vspx
-*.vscode-server
-*.vscode/*code-workspace
 TestResults/
 project.lock.json
 project.fragment.lock.json
@@ -38,7 +40,7 @@ project.fragment.lock.json
 *.csproj.nuget.g.targets
 **/appsettings*.json
 
-## Node.js (JavaScript/TypeScript)
+# Node.js
 node_modules/
 npm-debug.log*
 yarn-error.log
@@ -58,9 +60,13 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.pyo
 *.pwm
 
 # Rust
 target/
 
+# Optional for Rust libraries
+# Cargo.lock
+
+# JetBrains Rider / IntelliJ
+.idea/

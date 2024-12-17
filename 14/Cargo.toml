@@ -1,7 +1,0 @@
-[package]
-name = "day_14"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-cargo-util = "0.2.16"
