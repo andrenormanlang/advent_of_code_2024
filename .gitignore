@@ -55,6 +55,11 @@ parcel-cache/
 .next/
 .nuxt/
 
+# TypeScript
+*.tsbuildinfo
+@types/node/
+
+
 # Python
 __pycache__/
 *.py[cod]
@@ -70,3 +75,10 @@ target/
 
 # JetBrains Rider / IntelliJ
 .idea/
+
+# TypeScript
+.bin/
+@types/
+node_modules/
+typescript/
+undici-types/
